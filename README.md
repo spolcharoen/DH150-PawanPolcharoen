@@ -15,45 +15,61 @@ The two cooking websites I will be evaluating are "Mom On Timeout" and "The Mom 
 
 **Link to webpage:** https://www.momontimeout.com/
 ![Mom On Timeout Homepage](website1.png)
+**Fig 1.1: Mom On Timeout Homepage**
 
 **Initial Overall Evaluation:** When I first go on "Mom On Timeout," I immediately notice the fun and bright colors used. This website is very inviting, but far from minimalistic. Navigation was straight-forward, with many options to search or find subpages. However, a problem I noticed quickly was the large amounts of writing and advertisements on each recipe page. The excess content made it difficult to focus on the recipe itself. Ultimately, I found the website to be very charming and easy to navigate, though there are definitely places where it could be more catered towards the heuristics.
 
 ### 1. Visibility of System Status
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-2 | The menu bar is only visible at the top of the webpage and disappears while scrolling. This would result in confusion for the user about what page they are on. | Have the menu bar stay at the top of the webpage as the user scrolls down. In addition, there could be button to close the menu bar if the user does not wish to see it while scrolling.
+2 | The menu bar (see Fig 1.1) is only visible at the top of the webpage and disappears while scrolling. This would result in confusion for the user about what page they are on. | Have the menu bar stay at the top of the webpage as the user scrolls down. In addition, there could be button to close the menu bar if the user does not wish to see it while scrolling.
 1 | After clicking on a page from the menu bar and being redirected, there is no visual change on the menu to indicate what page the user is on. | Have the page title in the menu bar highlighted in a different color when the user is on that specific page.
 1 | When clicking on a recipe, there is no visual indication presented other than the clicker mouse changing. Other buttons on the website tend to change color when hovered on. Clicking a recipe should have the same high visibility of status. | Change the font from blue to orange when hovered on.
 
 ### 2. Match Between System and the Real World
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-2 | The menu bar has a page titled “DISNEY.” To someone unfamiliar with the creator’s Disney inspired recipes, this could be confusion as Disney is not usually associated with food and recipes. | Move “DISNEY” to a subcategory under the “RECIPES” page or retitle the page “DISNEY RECIPES” for more clarity.
-1 | At the bottom of every recipe page, there are buttons to see the previous and next recipe pages. These buttons are stacked on top of each other instead of placed side-by-side. This is counterintuitive to what a user would naturally associate with previous and next commands, which are usually placed side-by-side. | Place the links in the same row.
+2 | The menu bar has a page titled “DISNEY” (see Fig 1.1). To someone unfamiliar with the creator’s Disney inspired recipes, this could be confusion as Disney is not usually associated with food and recipes. | Move “DISNEY” to a subcategory under the “RECIPES” page or retitle the page “DISNEY RECIPES” for more clarity.
+1 | At the bottom of every recipe page, there are buttons to see the previous and next recipe pages (see Fig 1.2). These buttons are stacked on top of each other instead of placed side-by-side. This is counterintuitive to what a user would naturally associate with previous and next commands, which are usually placed side-by-side. | Place the links in the same row.
+
+![Mom On Timeout Previous Next](MOT_previous_next.png)
+**Fig 1.2: Previous/Next buttons**
 
 ### 3. User Control and Freedom
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
 1 | There is no obvious way to clear a comment or undo writing in the comment and replies section under each recipe. | Add a “Clear Comment” button.
 2 | The menu bar is only visible at the top of the webpage and disappears while scrolling. This makes is difficult for users to redirect to a different page if they want to. | Have the menu bar stay at the top of the webpage as the user scrolls down. In addition, there could be button to close the menu bar if the user does not wish to see it while scrolling.
-3 | Ads are placed sporadically throughout the blog articles and recipes, making it hard for users to concentrate on the main content of the website. Plus, it is easy to accidentally click on an ad while reading a recipe post. | Place ads strictly in the sidebar, instead of dispersed within the writing content to avoid confusion.
+3 | Ads are placed sporadically throughout the blog articles and recipes (see Fig 1.3), making it hard for users to concentrate on the main content of the website. Plus, it is easy to accidentally click on an ad while reading a recipe post. | Place ads strictly in the sidebar, instead of dispersed within the writing content to avoid confusion.
+
+![Mom On Timeout Ads](MOT_ads.png)
+**Fig 1.3: Scattered Ads**
 
 ### 4. Consistency and Standards
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-1 | The magnifying glass in the search bar is not clickable. Usually, this symbol is clickable to search in other similar websites. | Make the magnifying glass a button to search.
+1 | The magnifying glass in the search bar is not clickable (see Fig 1.4). Usually, this symbol is clickable to search in other similar websites. | Make the magnifying glass a button to search.
 1 | Within the subpages of the website, there is no option to filter searches by ingredients or tools. More mainstream cooking sites tend to have this option. | Create a “filter by” option when searching.
+
+![Mom On Timeout Search](MOT_search.png)
+**Fig 1.4: Search Bar**
 
 ### 5. Error Prevention
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-1 | When writing a comment or reply at the bottom of a recipe post, there is no spell-check tool or typo recognition. Thus, users would not be able to easily identify mistakes in their writing. | Add spell-check tool.
-3 | Due to the scattered placement of ads through the blog posts and website in general, it is easy for the user to mistakenly click on an ad and be redirected without warning. | Either separate ads from the main writing and photographic content of the website, or add a confirmation before redirecting the user.
+1 | When writing a comment or reply at the bottom of a recipe post, there is no spell-check tool or typo recognition (see Fig 1.5). Thus, users would not be able to easily identify mistakes in their writing. | Add spell-check tool.
+3 | Due to the scattered placement of ads through the blog posts and website in general (see Fig 1.3), it is easy for the user to mistakenly click on an ad and be redirected without warning. | Either separate ads from the main writing and photographic content of the website, or add a confirmation before redirecting the user.
+
+![Mom On Timeout Typo](MOT_typo.png)
+**Fig 1.5: No Spell Check**
 
 ### 6. Recognition Rather than Recall
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-2 | While searching, there is no auto-complete or suggestions offered to help aid the search process. Instead, users have to recall what they want to search entirely on their own. | Add an auto-complete tool that suggests searches to the user based on what they have typed.
+2 | While searching, there is no auto-complete or suggestions offered to help aid the search process (see Fig 1.6). Instead, users have to recall what they want to search entirely on their own. | Add an auto-complete tool that suggests searches to the user based on what they have typed.
+
+![Mom On Timeout Complete](MOT_complete.png)
+**Fig 1.6: No Auto-complete**
 
 ### 7. Flexibility and Efficiency of Use
 Severity (1-3) | Problem | Recommendation
@@ -67,7 +83,7 @@ Severity (1-3) | Problem | Recommendation
 3 | Before each recipe, there are paragraphs of writing content that the user has to scroll through. This information is not usually very helpful and competes with the core information. | Either place the writing content below the recipe or condense it.
 3 | Due to the fact that ads are placed throughout the writing content across the website, the website is very cluttered with various visuals that distract from the main content. | Place ads strictly in the sidebar, instead of dispersed within the writing content to avoid confusion.
 1 | This site has three different search bars which all function the same. This is unnecessary; one search bar in the header is enough. | Keep just the search bar in the header and delete the others.
-1 | This site has two menu bars on the top of the web page. This is confusion and makes the homepage cluttered. | Choose a few key pages between the two menu bars and combine them into one.
+1 | This site has two menu bars on the top of the web page (see Fig 1.1). This is confusion and makes the homepage cluttered. | Choose a few key pages between the two menu bars and combine them into one.
 
 ### 9. Help Users Recognize, Diagnose, and Recover from Errors
 Severity (1-3) | Problem | Recommendation
@@ -88,6 +104,7 @@ Severity (1-3) | Problem | Recommendation
 
 **Link to webpage:** https://themom100.com/
 ![The Mom 100 Homepage](website2.png)
+**Fig 2.1: The Mom 100 Homepage**
 
 **Initial Overall Evaluation:** At first glance, "The Mom 100" is a very clean and visually-pleasing website. Navigating through the various pages is relatively easy, especially with the well-organized menu bar. One thing I really enjoyed were the large photographs that complement the home-cooking feel. When looking at specific recipes, I immediately notice the overwhelming amount of information presented in the form of writing content and advertisements. This is something that I will look into further in the evaluation. Overall, I found the site to be easy to navigate and easy to search through for the most part.
 
