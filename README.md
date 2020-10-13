@@ -7,14 +7,20 @@ DH150 Website by Pawan (Sine) Polcharoen
 
 ### Website 1: Mom On Timeout
 info
-link
-screenshot
+
+https://www.momontimeout.com/
+
+![Mom On Timeout Homepage](website1.png)
+
 evaluation
 
 ### Website 2: The Mom 100
 info
-link
-screenshot
+
+https://themom100.com/
+
+![The Mom 100 Homepage](website2.png)
+
 evaluation
 
 
