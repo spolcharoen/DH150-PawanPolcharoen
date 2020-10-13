@@ -11,7 +11,7 @@ DH150 Website by Pawan (Sine) Polcharoen
 The two cooking websites I will be evaluating are "Mom On Timeout" and "The Mom 100." Although these websites differ in aesthetic and design, their problems tend to overlap in many categories. In this heuristic evaluation, I hope to identify the ways in which these sites have violated the various heuristics, as well as identify the source of the problem and suggest a potential solution.
 
 ## Website 1: Mom On Timeout
-"Mom On Timeout" is a food blog founded and run by Trish, a stay-at-home mom of two sons. Since July 2011, she has been posting family-friendly recipes for busy moms, specializing in short ingredient lists and time savers.
+"Mom On Timeout" is a food blog founded and run by Trish, a stay-at-home mom of two sons. Since July 2011, she has been posting family-friendly recipes for busy moms, specializing in short ingredient lists and time savers. The website utilizes bright colors, such as blue and coral, to capture the user's eye and creating a welcoming environment.
 
 **Link to webpage:** https://www.momontimeout.com/
 ![Mom On Timeout Homepage](website1.png)
@@ -84,7 +84,7 @@ Severity (1-3) | Problem | Recommendation
 
 ---
 ## Website 2: The Mom 100
-"The Mom 100" is the second website I will be evaluating. It is another food blog created by Katie Workman, a cook, a writer, and a mother of two. In contrast to Trish, Workman and her blog are much more involved in mainstream news, having been featured in Food52, NBC News, and other publications. In addition to the blog, Workman has also published two cookbooks.
+"The Mom 100" is the second website I will be evaluating. It is another food blog created by Katie Workman, a cook, a writer, and a mother of two. In contrast to Trish, Workman and her blog are much more involved in mainstream news, having been featured in Food52, NBC News, and other publications. Workman's blog is also more refined and clean looking. In addition to the blog, Workman has also published two cookbooks.
 
 **Link to webpage:** https://themom100.com/
 ![The Mom 100 Homepage](website2.png)
