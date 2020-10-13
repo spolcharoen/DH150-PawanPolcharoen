@@ -34,6 +34,7 @@ Severity (1-3) | Problem | Recommendation
 1 | At the bottom of every recipe page, there are buttons to see the previous and next recipe pages (see Fig 1.2). These buttons are stacked on top of each other instead of placed side-by-side. This is counterintuitive to what a user would naturally associate with previous and next commands, which are usually placed side-by-side. | Place the links in the same row.
 
 **Fig 1.2: Previous/Next buttons**
+
 ![Mom On Timeout Previous Next](MOT_previous_next.png)
 
 ### 3. User Control and Freedom
@@ -56,6 +57,7 @@ Severity (1-3) | Problem | Recommendation
 1 | Within the subpages of the website, there is no option to filter searches by ingredients or tools. More mainstream cooking sites tend to have this option. | Create a “filter by” option when searching.
 
 **Fig 1.5: Search Bar**
+
 ![Mom On Timeout Search](MOT_search.png)
 
 ### 5. Error Prevention
@@ -65,6 +67,7 @@ Severity (1-3) | Problem | Recommendation
 3 | Due to the scattered placement of ads through the blog posts and website in general (see Fig 1.3), it is easy for the user to mistakenly click on an ad and be redirected without warning. | Either separate ads from the main writing and photographic content of the website, or add a confirmation before redirecting the user.
 
 **Fig 1.6: No Spell-Check**
+
 ![Mom On Timeout Typo](MOT_typo.png)
 
 ### 6. Recognition Rather than Recall
@@ -73,6 +76,7 @@ Severity (1-3) | Problem | Recommendation
 2 | While searching, there is no auto-complete or suggestions offered to help aid the search process (see Fig 1.6). Instead, users have to recall what they want to search entirely on their own. | Add an auto-complete tool that suggests searches to the user based on what they have typed.
 
 **Fig 1.7: No Auto-complete**
+
 ![Mom On Timeout Complete](MOT_complete.png)
 
 ### 7. Flexibility and Efficiency of Use
@@ -136,6 +140,7 @@ Severity (1-3) | Problem | Recommendation
 3 | Ads are placed sporadically throughout the blog articles and recipes, making it hard for users to concentrate on the main content of the website. Plus, it is easy to accidentally click on an ad while reading a recipe post. | Place ads strictly in the sidebar, instead of dispersed within the writing content to avoid confusion.
 
 **Fig 2.3: Comments**
+
 ![The Mom 100 Comment](TM1_comment.png)
 
 **Fig 2.4: Scattered Ads and Writing**
@@ -150,6 +155,7 @@ Severity (1-3) | Problem | Recommendation
 1 | The “Newsletter” page is formatted differently than the rest of the website. This can be jarring for users since it is an unexpected change. | Add a warning for users to confirm before being redirected to the “Newsletter” page or lay out the page more similarly to the rest of the site.
 
 **Fig 2.5: Subpages**
+
 ![The Mom 100 Subpages](TM1_subpages.png)
 
 **Fig 2.6: Menu Comparison**
@@ -165,6 +171,7 @@ Severity (1-3) | Problem | Recommendation
 3 | Due to the scattered placement of ads through the blog posts and website in general, it is easy for the user to mistakenly click on an ad and be redirected without warning. | Either separate ads from the main writing and photographic content of the website, or add a confirmation before redirecting the user.
 
 **Fig 2.8: No Spell-Check**
+
 ![The Mom 100 Typo](TM1_typo.png)
 
 ### 6. Recognition Rather than Recall
@@ -173,6 +180,7 @@ Severity (1-3) | Problem | Recommendation
 2 | While searching, there is no auto-complete or suggestions offered to help aid the search process. Instead, users have to recall what they want to search entirely on their own. | Add an auto-complete tool that suggests searches to the user based on what they have typed.
 
 **Fig 2.9: No Auto-complete**
+
 ![The Mom 100 autocomplete](TM1_complete.png)
 
 ### 7. Flexibility and Efficiency of Use
