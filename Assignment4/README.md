@@ -13,7 +13,7 @@ Currently, most people turn to home cooking or eating out as a solution to satif
 #### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 A limitation that could possibly be improved with technology is the ability to serach for certain ingredients in one's home. When looking at a physical cookbook, there are limited options and the recipes may not cater to what the user currently has stocked up in their pantry or their dietary restrictions.
 
-## Target users 
+## Target Users 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
 The demographic this project will be focusing on is middle aged women.
 #### Where would the users do that activity? (i.e., context of use)
@@ -52,4 +52,6 @@ https://otter.ai/s/xo8zZs93RZSRdOs3LjcWUw
 "Some of it is just storytelling that I feel like is not necessary. And all that I just wanted to see is the cook time and what the spices or seasoning they use. Or what vegetables are actually cooking."
 
 ## Reflection
-Short reflection on what you learned and what you will do differently in the future.
+Overall, I gained a lot of new insight from the interview. Prior to the process, I thought I had a relatively clear idea about what problem areas I wanted to address in my design. Although some of these were reinforced with the interview, the participant also gave me some new areas to look at in the future. I enjoyed how the contextual inquiry gave me more information on the participant and their background. I felt that this gave me a more hollistic perspective of how and why the user was making certain choices. For example, I did not realize the emphasis that is placed on ratings and reviews when looking for a recipe. Beforehand, I was focused on cooking time and ingredient availability, but my participant opened my eyes to this new criteria. Furthermore, I enjoyed hearing about what her dream cooking website would consist of. Specifically, I found her idea about having a way to save recipes very creative.
+
+In the future, I would want to spend more time perfecting my questions. I had some trouble coming up with them, and I feel they got repetitive in some parts. Also, I wanted my participant to make more comments regarding the website interface, but she talked more generally about her experiences. If I were to do this study again, I would try to write more pointed questions about the website itself and that particular user experience.
