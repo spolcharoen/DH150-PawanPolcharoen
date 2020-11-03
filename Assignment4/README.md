@@ -22,8 +22,9 @@ Users would turn to a search browser, such as Google, to find a recipe.
 Users would look in their pantry for what ingredients they have on hand or follow a craving for a certain dish, and look that up in the search browser.
 
 ## Research Method(s)
-#### Interview with direct / passive / participatory observation.
-#### Or something you learned on your own (refer to the field guideline by IDEO)
+The research method used in this study is an interview with participartory observation. To prepare for the main interview, I wrote a contectual inquiry guide to help aid the process and clarify the purpose and goals of the study. This guide contains an introduction for the interview participant, as well as sets of questions revolving around background, context, user activity, and problems. These various sections are geared to learn more about the participant and how they find recipes online. In addition, they provide context to better understand the participant and why they make certain choices.
+
+Due to the pandemic, the study was conducted and recorded over Zoom and transcribed using Otter.ai. 
 
 ## Interview/Observation Guide
 #### Link to contextual inquiry guide (script)
@@ -33,20 +34,22 @@ https://drive.google.com/file/d/1U5aDV7L16qYTf2xqhic6-1k1tlgjj8Ou/view?usp=shari
 #### Link to interview transcript
 https://otter.ai/s/xo8zZs93RZSRdOs3LjcWUw
 ### Insights from the Interview
+#### 1. The user looks for high ratings/reviews and low cook time.
+"I do look at cooking time because I don't really want to spend a long time cooking and ingredient wise I don't necessarily pay attention to that as much. Um, unless it requires something that I don't have."
 
+"And like this one has five stars, so I'd usually just choose whichever one has the most reviews or stars on it."
+#### 2. The user usually has a dish or ingredient in mind before searching.
+"Usually, it's a certain way to cook certain foods that I know I want to use. And not necessarily ingredients but I would probably say more of a dish."
+#### 3. The user does not have a specific cooking website they always go to.
+"I don't necessarily have a particular website, but I usually just look for the recipe that has like, the higher rating or like reviews, I guess."
+
+"I guess when I look at cooking websites, I just like look at one recipe and then I exit the site."
+#### 4. The user would enjoy a more categorized website that allows for specific searches, as well as a website with an option to save recipes.
+"So I guess a website where more specific categories are available or a tab where you can just save all the ones you've looked at or you've liked. Or if they give you suggestions related to stuff that you've already made."
+#### 5. The user does not read the narrative writing content prior to looking at the recipe.
+"And I never read the introductions. Usually."
+
+"Some of it is just storytelling that I feel like is not necessary. And all that I just wanted to see is the cook time and what the spices or seasoning they use. Or what vegetables are actually cooking."
 
 ## Reflection
 Short reflection on what you learned and what you will do differently in the future.
-
-
-
-## Step06: Organize/Documentation
-In github (sub)repository assignment4, create one document (either README.md or .html)
-Describe your project design challenge + target user (step1+2)
-Describe your research methods and plan (step3)
-Provide a link to your interview/observation guide (step4) 
-Digitize your notes (scan/photo) and upload your data to github
-Provide a link to your representative data file(s) (step5)
-Provide a link to the transcript of your interview (or meaningful dialogues/ talk-aloud during observation, useful transcript tool here) 
-Write a reflection
-
