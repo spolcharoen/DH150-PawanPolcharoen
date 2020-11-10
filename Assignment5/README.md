@@ -12,9 +12,10 @@ Two features you want to propose for the ux design
 2. Recipe Access -- 
 
 ## Persona + Empathy Map 1: 
+![Kelly Penrose Persona](kellypenrose.png)
 
 ## Persona + Empathy Map 2:
-Persona + empathy map (at least TWO) 
+![Vivian Zhu Persona](vivianzhu.png)
 
 ## Scenario
 Scenario + Journey map (per each features
