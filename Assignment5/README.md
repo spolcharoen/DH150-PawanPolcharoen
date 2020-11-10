@@ -8,6 +8,8 @@ Short introduction about the purpose of ux storytelling in your project
 
 ## Proposed Features
 Two features you want to propose for the ux design
+1. Search Filters -- make it possible for users to filter their searches by ingredient and ratings
+2. Recipe Access -- 
 
 ## Persona + Empathy Map 1: 
 
