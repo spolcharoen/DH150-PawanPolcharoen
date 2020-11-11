@@ -12,13 +12,13 @@ The purpose of UX storytelling is to give the designer a deeper understanding of
 3. Minimalist Design: cut down on excess content to make the recipe more easily accessible
 
 ## Persona + Empathy Map 1: Kelly Penrose
-![Kelly Penrose Persona](kellypersona.png)
+![Kelly Penrose Persona](../kellypersona.png)
 
 ## Persona + Empathy Map 2: Vivian Zhu
-![Vivian Zhu Persona](vivianzhu.png)
+![Vivian Zhu Persona](../vivianzhu.png)
 
 ## Kelly Penrose's Scenario
-![Kelly Penrose Scenario](kellyscenario.png)
+![Kelly Penrose Scenario](../kellyscenario.png)
 
 ## Vivian Zhu's Scenario
-![Vivian Zhu Scenario](vivianscenario.png)
+![Vivian Zhu Scenario](../vivianscenario.png)
