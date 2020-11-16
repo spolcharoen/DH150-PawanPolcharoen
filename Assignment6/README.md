@@ -14,6 +14,7 @@ A list of tasks that the (paper) prototype of your system supported.
 
 ## Wireframes + Wireflow
 A set of pictures of the prototype in different states, showing it being tested.
+![Wireframe and Wireflow](../wireframe.png)
 
 ## Testing
 
