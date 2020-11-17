@@ -8,15 +8,18 @@ A brief description of your project and purpose of this low-fidelity prototype.
 
 ## Tasks Supported
 A list of tasks that the (paper) prototype of your system supported.
-1. Saving Feature
-2. Sort Feature
-3. Review and Comment Feature
+1. Sort recipe search by rating/cook time/newest/etc.
+2. Save recipes to folder on website.
+3. Leave a rating and review on a recipe.
 
 ## Wireframes + Wireflow
-A set of pictures of the prototype in different states, showing it being tested.
 ![Wireframe and Wireflow](../wireframe.png)
 
 ## Testing
+### Link to testing video
+https://drive.google.com/file/d/12Iy1ZThWLE-5Hk9Ter5PRoP7_eUxbmyZ/view?usp=sharing
+
+### Insights from testing
 
 ## Reflection
 A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two 
