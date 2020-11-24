@@ -17,7 +17,7 @@ This assignment only covers part 1 of creating a high fidelity prototype. This p
 ## Screen Designs
 **Link to Figma Prototype:** https://www.figma.com/file/pa0Vl0CtX9A4SOaUowiq8M/The-Cookbook-Hi-fi-Prototype?node-id=0%3A1
 
-![Screen Designs](../wireframes.png)
+![Screen Designs](../screendesigns.png)
 
 ## Decision-making Process
 **Color Scheme:** For my screen designs, I chose a warm and neutral color scheme, consisting of a pale yellow background with white, brown, black accents. Initially, I was debating between a more bright and vibrant color scheme, but I decided to go with the more neutral option after the findings of my Impression Test. I feel that the neutral colors allow the photographs of the food to pop more, while creating a cozy and inviting aesthetic for the site overall. Using both brown and black allowed me to create a contrast between the text and the accent pieces; I used black to accent and visually draw users to the text and headings, while utilizing the brown for buttons and other design components.
