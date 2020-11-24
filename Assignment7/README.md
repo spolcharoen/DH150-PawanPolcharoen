@@ -35,7 +35,7 @@ This assignment only covers part 1 of creating a high fidelity prototype. This p
 
 For the Impression Test, I presented the following three different mockups with various fonts and colors to my participant. Insights from the test can be found below. From the data collected, I decided to utilize the design choices in Mockup 3 for the rest of my screen designs.
 
-![Screen Mockups](../mockups.png)
+![Screen Mockups](../screenmockups.png)
 
 ### Insights from the Impression Test
 1. User prefers the neutral color scheme, since it is less harsh visually. Additionally, she prefers the brown recipe labels to the pale yellow becuase they give more visual contrast.
