@@ -4,7 +4,6 @@ by Pawan (Sine) Polcharoen
 ---
 
 ## Project Description
-A brief description of your project, the purpose and process of this prototyping phase (3-5 sentences)
 For this project, I will be prototyping a cooking website, "The Cookbook," geared towards middle aged women. My decisions regarding color scheme and interface design will be rooted in findings from my past evaluations, user testings, and persona scenarios. The purpose of creating a high fidelity prototype is to create actual interactive visuals for the final project and test its ability to support certain tasks. With this information, I will be able to tweak my designs to better support my target demographic. 
 
 This assignment only covers part 1 of creating a high fidelity prototype. This page showcases the screen designs, the decision-making process, the color contrast test, and the impression test.
