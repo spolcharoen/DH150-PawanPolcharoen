@@ -11,7 +11,7 @@ This assignment only covers part 1 of creating a high fidelity prototype. This p
 ## Tasks Supported
 1. Sort recipe search by level of rating.
 2. Save recipe to "Breakfasts" folder on website and access that folder through your account.
-3. Leave a rating and review on a recipe.
+3. Navigate to recipe page and leave a rating and review.
 
 ## Screen Designs
 **Link to Figma Prototype:** https://www.figma.com/file/pa0Vl0CtX9A4SOaUowiq8M/The-Cookbook-Hi-fi-Prototype?node-id=0%3A1
