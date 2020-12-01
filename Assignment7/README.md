@@ -8,8 +8,22 @@ For this project, I will be prototyping a cooking website, "The Cookbook," geare
 
 ## Tasks Supported
 1. Sort recipe search by level of rating.
-2. Save recipe to "Breakfasts" folder on website and access that folder through your account.
+    * go to "Breakfast" page under "Recipes" tab
+    * click "Sort" button and then click "Ratings"
+    * recipes will rearrange and sort by highest to lowest rating
+
+2. Save recipe to folder on website and access that folder through your account.
+    * go to "Breakfast" page under "Recipes" tab
+    * click on "Crispy Fried Egg" recipe
+    * click "Save" button and then "Breakfasts"
+    * click on Account icon at top right and then "Saved"
+    * click on "Breakfasts" folder to see saved recipe in folder
+
 3. Navigate to recipe page and leave a rating and review.
+    * go to "Breakfast" page under "Recipes" tab
+    * click on "Crispy Fried Egg" recipe
+    * click on review icon by the five stars
+    * write review and click "Post"
 
 ## The Prototype
 **Link to final interactive Figma prototype:** https://www.figma.com/proto/VebjqMgBurBc1iV37WjSnU/The-Cookbook-Hi-fi-Prototype-Interactive?node-id=1%3A2&scaling=scale-down
