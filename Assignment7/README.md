@@ -12,7 +12,9 @@ For this project, I will be prototyping a cooking website, "The Cookbook," geare
 3. Navigate to recipe page and leave a rating and review.
 
 ## The Prototype
-**Link to interactive Figma Prototype:** https://www.figma.com/proto/VebjqMgBurBc1iV37WjSnU/The-Cookbook-Hi-fi-Prototype-Interactive?node-id=1%3A2&scaling=scale-down
+**Link to final interactive Figma prototype:** https://www.figma.com/proto/VebjqMgBurBc1iV37WjSnU/The-Cookbook-Hi-fi-Prototype-Interactive?node-id=1%3A2&scaling=scale-down
+
+**Link to version 1 of screen designs:** https://www.figma.com/file/pa0Vl0CtX9A4SOaUowiq8M/The-Cookbook-Hi-fi-Prototype-Version-1-Non-interactive?node-id=0%3A1
 
 ### Screen Designs
 ![Screen Designs](../hifiscreendesigns.png)
@@ -38,14 +40,14 @@ For the Impression Test, I presented the following three different mockups with 
 
 ![Screen Mockups](../screenmockups.png)
 
-### Insights from the Impression Test
+### Summary of Impression Test
 1. User prefers the neutral color scheme, since it is less harsh visually. Additionally, she prefers the brown recipe labels to the pale yellow becuase they give more visual contrast.
 2. User prefers Galada font for the logo/headers instead of Vesper Libre. They also prefer Poly font for the body text instead of Hanuman. 
 3. User prefers the coffee icon in mockups 2 and 3 instead of the one in mockup 1, because it does not take away from the main logo icon.
 
 ## Cognitive Walkthrough
-**Link to Cognitive Walkthrough Results:** https://docs.google.com/document/d/1pSl5zXvbbkcvP-2jW1eOf7fdbCkGc1iGmCV1o5la_0o/edit?usp=sharing
+**Link to cognitive walkthrough results:** https://docs.google.com/document/d/1pSl5zXvbbkcvP-2jW1eOf7fdbCkGc1iGmCV1o5la_0o/edit?usp=sharing
 
-### Insights from the Cognitive Walkthrough
+### Summary of Cognitive Walkthrough
 
 ## Reflection
