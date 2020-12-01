@@ -1,4 +1,4 @@
-# DH150 Assignment 7: High Fidelity Prototype Part 1
+# DH150 Assignment 7: High Fidelity Prototype
 by Pawan (Sine) Polcharoen
 
 ---
@@ -6,17 +6,19 @@ by Pawan (Sine) Polcharoen
 ## Project Description
 For this project, I will be prototyping a cooking website, "The Cookbook," geared towards middle aged women. My decisions regarding color scheme and interface design will be rooted in findings from my past evaluations, user testings, and persona scenarios. The purpose of creating a high fidelity prototype is to create actual interactive visuals for the final project and test its ability to support certain tasks. With this information, I will be able to tweak my designs to better support my target demographic. 
 
-This assignment only covers part 1 of creating a high fidelity prototype. This page showcases the screen designs, the decision-making process, the color contrast test, and the impression test.
-
 ## Tasks Supported
 1. Sort recipe search by level of rating.
 2. Save recipe to "Breakfasts" folder on website and access that folder through your account.
 3. Navigate to recipe page and leave a rating and review.
 
-## Screen Designs
+## The Prototype
 **Link to Figma Prototype:** https://www.figma.com/file/pa0Vl0CtX9A4SOaUowiq8M/The-Cookbook-Hi-fi-Prototype?node-id=0%3A1
 
+### Screen Designs
 ![Screen Designs](../screendesigns.png)
+
+### Wireflows
+
 
 ## Decision-making Process
 **Color Scheme:** For my screen designs, I chose a warm and neutral color scheme, consisting of a pale yellow background with white, brown, black accents. Initially, I was debating between a more bright and vibrant color scheme, but I decided to go with the more neutral option after the findings of my Impression Test. I feel that the neutral colors allow the photographs of the food to pop more, while creating a cozy and inviting aesthetic for the site overall. Using both brown and black allowed me to create a contrast between the text and the accent pieces; I used black to accent and visually draw users to the text and headings, while utilizing the brown for buttons and other design components. Moreover, I solidified my choice after checking the colors with the accesibility color contrast test. The results of this test can be found below.
@@ -40,3 +42,9 @@ For the Impression Test, I presented the following three different mockups with 
 1. User prefers the neutral color scheme, since it is less harsh visually. Additionally, she prefers the brown recipe labels to the pale yellow becuase they give more visual contrast.
 2. User prefers Galada font for the logo/headers instead of Vesper Libre. They also prefer Poly font for the body text instead of Hanuman. 
 3. User prefers the coffee icon in mockups 2 and 3 instead of the one in mockup 1, because it does not take away from the main logo icon.
+
+## Cognitive Walkthrough
+
+### Insights from the Cognitive Walkthrough
+
+## Reflection
