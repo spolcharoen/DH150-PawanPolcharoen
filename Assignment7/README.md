@@ -15,10 +15,10 @@ For this project, I will be prototyping a cooking website, "The Cookbook," geare
 **Link to interactive Figma Prototype:** https://www.figma.com/proto/VebjqMgBurBc1iV37WjSnU/The-Cookbook-Hi-fi-Prototype-Interactive?node-id=1%3A2&scaling=scale-down
 
 ### Screen Designs
-![Screen Designs](../screendesigns.png)
+![Screen Designs](../hifiscreendesigns.png)
 
 ### Wireflows
-
+![Wireflows](../hifiwireflows.png)
 
 ## Decision-making Process
 **Color Scheme:** For my screen designs, I chose a warm and neutral color scheme, consisting of a pale yellow background with white, brown, black accents. Initially, I was debating between a more bright and vibrant color scheme, but I decided to go with the more neutral option after the findings of my Impression Test. I feel that the neutral colors allow the photographs of the food to pop more, while creating a cozy and inviting aesthetic for the site overall. Using both brown and black allowed me to create a contrast between the text and the accent pieces; I used black to accent and visually draw users to the text and headings, while utilizing the brown for buttons and other design components. Moreover, I solidified my choice after checking the colors with the accesibility color contrast test. The results of this test can be found below.
