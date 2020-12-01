@@ -49,5 +49,12 @@ For the Impression Test, I presented the following three different mockups with 
 **Link to cognitive walkthrough results:** https://docs.google.com/document/d/1pSl5zXvbbkcvP-2jW1eOf7fdbCkGc1iGmCV1o5la_0o/edit?usp=sharing
 
 ### Summary of Cognitive Walkthrough
+1. The purpose of the website is clear to users at first glance. It is clearly a website having to due with food and cooking.
+2. There is confusion with the button to comment and leave a review on a recipe. Clicking leads to the same page instead of scrolling down and leading to review section.
+3. Back-flow is clear and available on most pages. 
 
 ## Reflection
+Overall, creating and designing a high fidelity prototype for "The Cookbook" website was very informative and fun! The whole process went very smoothly. I was able to create different designs and test them as I went. I enjoyed taking feedback from the impression test and the cognitive walkthrough and implementing changes in my screen designs and wireflow. For the most part, I did not have any major difficulties when designing or putting in interactions. However, I did struggle with the review button. I wanted the site page to scroll down after one clicked on the review button on the recipe page, but Figma does not have this option. Thus, I had to create a separate screen and change the interaction to "Smart Animate" for the scrolling effect. Other than this, everything went well in my design process and I look forward to working further on the cooking site.
+
+From the feedback I got from prototype testing, I already made changes to my designs. From the impression test, I finalized my color scheme, fonts, and icons. From the cognitive walkthrough, I fixed the usage of the review section and added more interactions to better facilitate task 3. In addition to extra screens and wireflows, I added a magnifying glass to the search bar for aesthetics and easier recognition. In the future, I hope to flesh out the review section and design the page for posted reviews. Furthermore, I would like to develop the search and filter by options to be interactive and usable. Ultimately, the process of designing this high fidelity prototype was successful and I am excited for what's to come with further work.
+
