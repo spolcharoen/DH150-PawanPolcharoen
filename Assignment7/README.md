@@ -22,7 +22,7 @@ For this project, I will be prototyping a cooking website, "The Cookbook," geare
 3. Navigate to recipe page and leave a rating and review.
     * go to "Breakfast" page under "Recipes" tab
     * click on "Crispy Fried Egg" recipe
-    * click on review icon by the five stars
+    * click on Review icon by the five stars
     * write review and click "Post"
 
 ## The Prototype
