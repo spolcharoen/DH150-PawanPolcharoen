@@ -12,7 +12,7 @@ For this project, I will be prototyping a cooking website, "The Cookbook," geare
 3. Navigate to recipe page and leave a rating and review.
 
 ## The Prototype
-**Link to Figma Prototype:** https://www.figma.com/file/pa0Vl0CtX9A4SOaUowiq8M/The-Cookbook-Hi-fi-Prototype?node-id=0%3A1
+**Link to interactive Figma Prototype:** https://www.figma.com/proto/VebjqMgBurBc1iV37WjSnU/The-Cookbook-Hi-fi-Prototype-Interactive?node-id=1%3A2&scaling=scale-down
 
 ### Screen Designs
 ![Screen Designs](../screendesigns.png)
@@ -44,6 +44,7 @@ For the Impression Test, I presented the following three different mockups with 
 3. User prefers the coffee icon in mockups 2 and 3 instead of the one in mockup 1, because it does not take away from the main logo icon.
 
 ## Cognitive Walkthrough
+**Link to Cognitive Walkthrough Results:** https://docs.google.com/document/d/1pSl5zXvbbkcvP-2jW1eOf7fdbCkGc1iGmCV1o5la_0o/edit?usp=sharing
 
 ### Insights from the Cognitive Walkthrough
 
