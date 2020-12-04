@@ -19,6 +19,8 @@ Mom on Timeout | The Mom 100
 ## Competitor Analysis: UT Testing
 The purpose of [usability testing](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment2) (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. It is necessary to test whether a product is effective, efficient, and satisfactory for users. The UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control.
 
+<iframe src="https://drive.google.com/file/d/1CsEw-kOSkRd8WgQfCtnYe3IyIFX3RVCZ/preview" width="640" height="480"></iframe>
+
 ## User research: Contextual Inquiry
 The research method used in this [user research](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment4) is an interview with participartory observation. To prepare for the main interview, I wrote a contectual inquiry guide to help aid the process and clarify the purpose and goals of the study. This guide contains an introduction for the interview participant, as well as sets of questions revolving around background, context, user activity, and problems. These various sections are geared to learn more about the participant and how they find recipes online. In addition, they provide context to better understand the participant and why they make certain choices.
 
