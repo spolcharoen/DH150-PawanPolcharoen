@@ -22,13 +22,22 @@ Summary and link to your assignment folder
 ## UX storytelling
 The purpose of [UX storytelling](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment5) is to give the designer a deeper understanding of the user so that they can implement necessary changes to their product. By creating personas and stepping into the mind of a potential user, designers gain insight into the thoughts and behaviors that influence how a user interacts with the product. The process can allow us to think though the decision-making process that users go through when accessing the product. Specifically for my project, UX storytelling will allow me to empathize with the various challenges that my target users may face. Thus, I can make changes and introduce features that will combat these obstacles and allow for an improved user experience overall.
 
-## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-[low-fidelity protype](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment6)
+## Low-fidelity prototype
+The purpose of this [low fidelity prototype](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment6) testing is to better understand how target users will interact with the cooking website I am designing. From past testing and persona/scenario development, I have gathered data that will aid me in the creation of my website and the guide me in the decisions I make regarding the interface design. I will be utilizing low fideltity prototype testing to see whether certain features I want to implement are successful and useful. Through a series of tasks, I will gain a deeper understanding of how easy my site is to navigate and how users interact with the interface.
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
-[high-fidelity protype](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment7)
+The user personas I created were busy middle aged women with real-life responsibilities and concerns. I want the website I create to be easily accessible for women of all technical and cooking levels. I also strive to create something that will cater to users' specific needs regarding time constraints and dietary needs. Thus, the features I wanted to implement are a sort/filter option while searching, a save-to-folder feature that is connected to a personal account on the site, and a rating/review system for each recipe.
+
+### Wireframes + Wireflow
+![Wireframe and Wireflow](../wireframe.png)
+
+## High-fidelity prototype
+For this project, I will be designing a [high-fidelity prototype](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment7) for a cooking website, "The Cookbook," geared towards middle aged women. My decisions regarding color scheme and interface design will be rooted in findings from my past evaluations, user testings, and persona scenarios. The purpose of creating a high fidelity prototype is to create interactive visuals for the final project and test its ability to support certain tasks. With this information, I will be able to tweak my designs to better support my target demographic and the tasks they want to complete. 
+
+### Screen Designs
+![Screen Designs](../hifiscreendesigns.png)
+
+### Wireflows
+![Wireflows](../hifiwireflows.png)
 
 ## Evaluation and Revision History 
 ### Cognitive Walkthrough
