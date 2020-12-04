@@ -43,6 +43,8 @@ The user personas I created were busy middle aged women with real-life responsib
 ## High-fidelity prototype
 For this project, I will be designing a [high-fidelity prototype](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment7) for a cooking website, "The Cookbook," geared towards middle aged women. My decisions regarding color scheme and interface design will be rooted in findings from my past evaluations, user testings, and persona scenarios. The purpose of creating a high fidelity prototype is to create interactive visuals for the final project and test its ability to support certain tasks. With this information, I will be able to tweak my designs to better support my target demographic and the tasks they want to complete. 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FVebjqMgBurBc1iV37WjSnU%2FThe-Cookbook-Hi-fi-Prototype-Interactive%3Fnode-id%3D1%253A2%26scaling%3Dscale-down" allowfullscreen></iframe>
+
 ### Screen Designs
 ![Screen Designs](../hifiscreendesigns.png)
 
