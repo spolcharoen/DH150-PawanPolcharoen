@@ -12,15 +12,23 @@ This UX Design project will be focused around cooking websites geared towards mi
 ## Competitor Analysis: Heuristic Evaluation
 The two cooking websites I will be evaluating are "Mom On Timeout" and "The Mom 100." Although these websites differ in aesthetic and design, their problems tend to overlap in many categories. In this [heuristic evaluation](https://github.com/spolcharoen/DH150-PawanPolcharoen), I hope to identify the ways in which these sites have violated the various heuristics, as well as identify the source of the problem and suggest a potential solution. 
 
+Mom on Timeout | The Mom 100
+------------ | -------------
+![Mom On Timeout Homepage](../website1.png) | ![The Mom 100 Homepage](../website2.png)
+
 ## Competitor Analysis: UT Testing
 The purpose of [usability testing](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment2) (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. It is necessary to test whether a product is effective, efficient, and satisfactory for users. The UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control.
 
 ## User research: Contextual Inquiry
-Summary and link to your assignment folder
-[user ressearch](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment4)
+The research method used in this [user research](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment4) is an interview with participartory observation. To prepare for the main interview, I wrote a contectual inquiry guide to help aid the process and clarify the purpose and goals of the study. This guide contains an introduction for the interview participant, as well as sets of questions revolving around background, context, user activity, and problems. These various sections are geared to learn more about the participant and how they find recipes online. In addition, they provide context to better understand the participant and why they make certain choices.
 
 ## UX storytelling
 The purpose of [UX storytelling](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment5) is to give the designer a deeper understanding of the user so that they can implement necessary changes to their product. By creating personas and stepping into the mind of a potential user, designers gain insight into the thoughts and behaviors that influence how a user interacts with the product. The process can allow us to think though the decision-making process that users go through when accessing the product. Specifically for my project, UX storytelling will allow me to empathize with the various challenges that my target users may face. Thus, I can make changes and introduce features that will combat these obstacles and allow for an improved user experience overall.
+
+Kelly Penrose | Vivian Zhu
+------------ | -------------
+![Kelly Penrose Persona](../kellypersona.png) | ![Vivian Zhu Persona](../vivianzhu.png)
+![Kelly Penrose Scenario](../kellyscenario.png) | ![Vivian Zhu Scenario](../vivianscenario.png)
 
 ## Low-fidelity prototype
 The purpose of this [low fidelity prototype](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment6) testing is to better understand how target users will interact with the cooking website I am designing. From past testing and persona/scenario development, I have gathered data that will aid me in the creation of my website and the guide me in the decisions I make regarding the interface design. I will be utilizing low fideltity prototype testing to see whether certain features I want to implement are successful and useful. Through a series of tasks, I will gain a deeper understanding of how easy my site is to navigate and how users interact with the interface.
@@ -57,3 +65,4 @@ For the Impression Test, I presented the following three different mockups with 
 ## Pitch video [update the video after recording your presentation]
 
 ## Conclusion + Reflection
+Overall, creating and designing a high fidelity prototype for "The Cookbook" website was very informative and fun! The whole process went very smoothly. I was able to create different designs and test them as I went. I enjoyed taking feedback from the impression test and the cognitive walkthrough and implementing changes in my screen designs and wireflow.
