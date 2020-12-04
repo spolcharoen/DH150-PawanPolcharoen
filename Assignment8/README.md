@@ -1,4 +1,4 @@
-# DH150 Web Documentation: The Cookbook Website
+# The Cookbook Website
 by Pawan (Sine) Polcharoen
 
 ---
