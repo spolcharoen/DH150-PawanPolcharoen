@@ -73,8 +73,6 @@ The pitch video for The Cookbook can be found [here](https://drive.google.com/fi
 
 <iframe src="https://drive.google.com/file/d/18FpgPsqQGupQgVOK-mZlJjdT2YQ582kG/view?usp=sharing" width="440" height="280"></iframe>
 
-<iframe src="https://drive.google.com/file/d/18FpgPsqQGupQgVOK-mZlJjdT2YQ582kG/view?usp=sharing" width="440" height="280"></iframe>
-
 ## Conclusion + Reflection
 Overall, I have learned a lot from the creation of this DH150 UX Design project. Although I came into the course with little to no knowledge about UX and UI, I feel that I have been able to gain many useful insights throughout the process. Firstly, I learned how critical the research and analysis processes are. Prior to even starting the actual product design, there is so much important work that needs to be done. Without fully understanding the current market and your target demographic, there is no evidence to back design choices. Without user-based research, the final product would be aimless and without goal. Furthermore, I also learned that it is impossible to please everyone. Although users may have similar end goals, everyone has different motivations and needs. Thus, compromises and choices have to be made regarding interface design and features offered. Lastly, I have learned that all the processes regarding designing a product from scratch should tie back to the user. At the end of the day, the product is intended to be as useful and accessible as possible. This is the overarching goal that should resonate throughout any design project.
 
