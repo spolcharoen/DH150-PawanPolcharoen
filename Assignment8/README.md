@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -10,31 +9,29 @@
 
     <title>DH150: UX + UI</title>
   </head>
-  <body>
+<style>
+    #myHeader {
+        background-color: cornsilk;
+    }
+    
+    #BTN01 {
+        background-color: saddlebrown;
+        border: 1px solid saddlebrown;
+        border-radius: 10px;
+    }
+</style>
 
+  <body>
       <div class="jumbotron">
   <h1 class="display-4">The Cookbook Website</h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p class="lead">by Pawan (Sine) Polcharoen</p>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>The Cookbook is a cooking website that allows users to find and save recipes that appeal to them and their various lifestyles. Through careful analysis, testing, and prototyping, The overarching goal of The Cookbook is to create a stress-free environment for busy middle aged women, so that they can explore the cooking skill while easily implementing the recipes into their lives. The user personas I created were busy middle aged women with real-life responsibilities and concerns. I want the website I create to be easily accessible for women of all technical and cooking levels. I also strive to create something that will cater to users' specific needs regarding time constraints and dietary needs. </p>
   <a class="btn btn-primary btn-lg" href="#" role="button">Watch Pitch</a>
 </div>
-      
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
   </body>
 </html>
-
-# The Cookbook Website
-by Pawan (Sine) Polcharoen
-
----
-
-## Introduction
-The Cookbook is a cooking website that allows users to find and save recipes that appeal to them and their various lifestyles. Through careful analysis, testing, and prototyping, The overarching goal of The Cookbook is to create a stress-free environment for busy middle aged women, so that they can explore the cooking skill while easily implementing the recipes into their lives. The user personas I created were busy middle aged women with real-life responsibilities and concerns. I want the website I create to be easily accessible for women of all technical and cooking levels. I also strive to create something that will cater to users' specific needs regarding time constraints and dietary needs. 
 
 ## Design Statement
 This UX Design project is focused on cooking websites geared towards middle aged women. Middle aged women often have a full plate of responsibilities. On an average day, they have to balance working, parenting, and countless other tasks. Since they are already dealing with so much, these women should be putting in the least amount of extra effort to navigate a cooking website that’s supposed to be designed for their demographic. Cooking, at the end of the day, should be easy and accessible, rather than a chore. Personally, I feel as though cooking should be a fun experience that one looks forward to. Thus, I chose to design my website, The Cookbook, for this project in an effort to create a comfortable environment for middle aged women to find recipes and cook at ease.
