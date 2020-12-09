@@ -131,7 +131,7 @@ Severity (1-3) | Problem | Recommendation
 2 | At the top of every recipe page (see Fig. 2.2), there is a downwards arrow that lets the user skip the blog writing and jump straight to the recipe. Although helpful, this button is not labeled “Jump to Recipe,” but instead is just the downward arrow. Users who are unfamiliar with cooking websites are not likely to know what the function of this button is. | Add a “Jump to Recipe” label to the arrow.
 
 **Fig. 2.2: Recipe page**
-![The Mom 100 Recipe](TM1_recipe.png)
+![The Mom 100 Recipe](TM1_recipepage.png)
 
 ### 3. User Control and Freedom
 Severity (1-3) | Problem | Recommendation
