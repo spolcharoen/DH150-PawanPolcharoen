@@ -63,6 +63,9 @@ For the [impression test](https://drive.google.com/file/d/1sWmIU_yuUoXRW_hMr2Yv2
 
 ### Accesibility Color Contrast Test
 For my screen designs, I chose a warm and neutral color scheme, consisting of a pale yellow background with white, brown, black accents. I feel that the neutral colors allow the photographs of the food to pop more, while creating a cozy and inviting aesthetic for the site overall. Moreover, I solidified my choice after checking the colors with the accesibility color contrast test.
+
+Black/Yellow test | Brown/Yellow test
+------------ | -------------
 ![Color Check 1](../colortest1.png) | ![Color Check 2](../colortest2.png)
 
 ## Conclusion + Reflection
