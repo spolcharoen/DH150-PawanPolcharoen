@@ -17,7 +17,7 @@ Mom on Timeout | The Mom 100
 ------------ | -------------
 ![Mom On Timeout Homepage](../website1.png) | ![The Mom 100 Homepage](../website2.png)
 
-### UT Testing
+### Usability Testing
 The purpose of usability testing (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. The process is necessary to test whether a product is effective, efficient, and satisfactory for users. Furthermore, the UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control. For my UT, I continued my analysis of the “Mom on Timeout” food blog, asking my participant to complete three tasks that test the usability of the website. [...read more](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment2)
 
 <iframe src="https://drive.google.com/file/d/1CsEw-kOSkRd8WgQfCtnYe3IyIFX3RVCZ/preview" width="440" height="280"></iframe>
