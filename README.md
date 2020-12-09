@@ -4,7 +4,7 @@ DH150 Website by Pawan (Sine) Polcharoen
 ---
 
 # Cooking Sites for Middle Aged Women
-**Project Description:** This UX Design project will be focused around cooking websites geared towards middle aged women. Middle aged women often have a full plate of responsibilities. On an average day, they have to balance working, parenting, and countless other tasks. On top of all that, these women should be putting in the least amount of extra effort to navigate a cooking website that’s supposed to be designed for their demographic. Cooking at the end of the day should be easy and accessible, rather than a chore. Personally, I feel as though cooking should be a fun experience that one looks forward to. Thus, I want to improve the UX design of such websites over this quarter in an effort to create a comfortable environment for middle aged women to find recipes and cook at ease.
+**Project Description:** This UX Design project will be focused on cooking websites geared towards middle aged women. Middle aged women often have a full plate of responsibilities. On an average day, they have to balance working, parenting, and countless other tasks. On top of all that, these women should be putting in the least amount of extra effort to navigate a cooking website that’s supposed to be designed for their demographic. Cooking at the end of the day should be easy and accessible, rather than a chore. Personally, I feel as though cooking should be a fun experience that one looks forward to. Thus, I want to improve the UX design of such websites over this quarter in an effort to create a comfortable environment for middle aged women to find recipes and cook at ease.
 
 ---
 ## Assignment 1: Heuristic Evaluation
@@ -23,14 +23,14 @@ The two cooking websites I will be evaluating are "Mom On Timeout" and "The Mom 
 ### 1. Visibility of System Status
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-2 | The menu bar (see Fig. 1.1) is only visible at the top of the webpage and disappears while scrolling. This would result in confusion for the user about what page they are on. | Have the menu bar stay at the top of the webpage as the user scrolls down. In addition, there could be button to close the menu bar if the user does not wish to see it while scrolling.
+2 | The menu bar (see Fig. 1.1) is only visible at the top of the webpage and disappears while scrolling. This would result in confusion for the user about what page they are on. | Have the menu bar stay at the top of the webpage as the user scrolls down. In addition, there could be a button to close the menu bar if the user does not wish to see it while scrolling.
 1 | After clicking on a page from the menu bar and being redirected, there is no visual change on the menu to indicate what page the user is on. | Have the page title in the menu bar highlighted in a different color when the user is on that specific page.
 1 | When clicking on a recipe, there is no visual indication presented other than the clicker mouse changing. Other buttons on the website tend to change color when hovered on. Clicking a recipe should have the same high visibility of status. | Change the font from blue to orange when hovered on.
 
 ### 2. Match Between System and the Real World
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-2 | The menu bar has a page titled “DISNEY” (see Fig. 1.1). To someone unfamiliar with the creator’s Disney inspired recipes, this could be confusion as Disney is not usually associated with food and recipes. | Move “DISNEY” to a subcategory under the “RECIPES” page or retitle the page “DISNEY RECIPES” for more clarity.
+2 | The menu bar has a page titled “DISNEY” (see Fig. 1.1). To someone unfamiliar with the creator’s Disney inspired recipes, this could be confusing as Disney is not usually associated with food and recipes. | Move “DISNEY” to a subcategory under the “RECIPES” page or retitle the page “DISNEY RECIPES” for more clarity.
 1 | At the bottom of every recipe page, there are buttons to see the previous and next recipe pages (see Fig. 1.2). These buttons are stacked on top of each other instead of placed side-by-side. This is counterintuitive to what a user would naturally associate with previous and next commands, which are usually placed side-by-side. | Place the links in the same row.
 
 **Fig. 1.2: Previous/Next buttons**
@@ -41,7 +41,7 @@ Severity (1-3) | Problem | Recommendation
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
 1 | There is no obvious way to clear a comment or undo writing in the comment and replies section under each recipe (see Fig. 1.3). | Add a “Clear Comment” button.
-2 | The menu bar is only visible at the top of the webpage and disappears while scrolling. This makes is difficult for users to redirect to a different page if they want to. | Have the menu bar stay at the top of the webpage as the user scrolls down. In addition, there could be button to close the menu bar if the user does not wish to see it while scrolling.
+2 | The menu bar is only visible at the top of the webpage and disappears while scrolling. This makes it difficult for users to redirect to a different page if they want to. | Have the menu bar stay at the top of the webpage as the user scrolls down. In addition, there could be a button to close the menu bar if the user does not wish to see it while scrolling.
 3 | Ads are placed sporadically throughout the blog articles and recipes (see Fig. 1.4), making it hard for users to concentrate on the main content of the website. Plus, it is easy to accidentally click on an ad while reading a recipe post. | Place ads strictly in the sidebar, instead of dispersed within the writing content to avoid confusion.
 
 **Fig. 1.3: Comments**
@@ -53,7 +53,7 @@ Severity (1-3) | Problem | Recommendation
 ### 4. Consistency and Standards
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-1 | The magnifying glass in the search bar is not clickable (see Fig. 1.5). Usually, this symbol is clickable to search in other similar websites. | Make the magnifying glass a button to search.
+1 | The magnifying glass in the search bar is not clickable (see Fig. 1.5). Usually, this symbol is clickable to search on similar websites. | Make the magnifying glass a button to search.
 1 | Within the subpages of the website, there is no option to filter searches by ingredients or tools. More mainstream cooking sites tend to have this option. | Create a “filter by” option when searching.
 
 **Fig. 1.5: Search Bar**
@@ -82,7 +82,7 @@ Severity (1-3) | Problem | Recommendation
 ### 7. Flexibility and Efficiency of Use
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-2 | Although there are subpages for different meals and courses, there is no option to filter for certain ingredients of tools. This lowers the speed in which users can search for a recipe of their liking and also decreases the interaction speed for an expert user. | Create a “filter by” option when searching.
+2 | Although there are subpages for different meals and courses, there is no option to filter for certain ingredients. This lowers the speed at which users can search for a recipe of their liking and also decreases the interaction speed for an expert user. | Create a “filter by” option when searching.
 2 | There is no quick way to access the reviews and comments of the recipe other than scrolling to the bottom of the page (see Fig. 1.8). This decreases the interaction speed for all users. | Include a “Jump to Reviews” button at the top of the recipe page.
 
 **Fig. 1.8: Recipe Page**
@@ -94,7 +94,7 @@ Severity (1-3) | Problem | Recommendation
 3 | Before each recipe, there are paragraphs of writing content that the user has to scroll through (see Fig. 1.4). This information is not usually very helpful and competes with the core information. | Either place the writing content below the recipe or condense it.
 3 | Due to the fact that ads are placed throughout the writing content across the website (see Fig. 1.4), the website is very cluttered with various visuals that distract from the main content. | Place ads strictly in the sidebar, instead of dispersed within the writing content to avoid confusion.
 1 | This site has three different search bars which all function the same. This is unnecessary; one search bar in the header is enough. | Keep just the search bar in the header and delete the others.
-1 | This site has two menu bars on the top of the web page (see Fig. 1.1). This is confusion and makes the homepage cluttered. | Choose a few key pages between the two menu bars and combine them into one.
+1 | This site has two menu bars on the top of the web page (see Fig. 1.1). This is confusing and makes the homepage cluttered. | Choose a few key pages between the two menu bars and combine them into one.
 
 ### 9. Help Users Recognize, Diagnose, and Recover from Errors
 Severity (1-3) | Problem | Recommendation
@@ -117,7 +117,7 @@ Severity (1-3) | Problem | Recommendation
 **Fig. 2.1: The Mom 100 Homepage**
 ![The Mom 100 Homepage](website2.png)
 
-**Initial Overall Evaluation:** At first glance, "The Mom 100" is a very clean and visually-pleasing website. Navigating through the various pages is relatively easy, especially with the well-organized menu bar. One thing I really enjoyed were the large photographs that complement the home-cooking feel. When looking at specific recipes, I immediately notice the overwhelming amount of information presented in the form of writing content and advertisements. This is something that I will look into further in the evaluation. Overall, I found the site to be easy to navigate and easy to search through for the most part.
+**Initial Overall Evaluation:** At first glance, "The Mom 100" is a very clean and visually-pleasing website. Navigating through the various pages is relatively easy, especially with the well-organized menu bar. One thing I really enjoyed was the large photographs that complement the home-cooking feel. When looking at specific recipes, I immediately notice the overwhelming amount of information presented in the form of writing content and advertisements. This is something that I will look into further in the evaluation. Overall, I found the site to be easy to navigate and easy to search through for the most part.
 
 ### 1. Visibility of System Status
 Severity (1-3) | Problem | Recommendation
@@ -186,7 +186,8 @@ Severity (1-3) | Problem | Recommendation
 ### 7. Flexibility and Efficiency of Use
 Severity (1-3) | Problem | Recommendation
 ------------ | ------------- | -------------
-2 | Although there are subpages for different meals and courses, there is no option to filter for certain ingredients of tools. This lowers the speed in which users can search for a recipe of their liking and also decreases the interaction speed for an expert user. | Create a “filter by” option when searching.
+2 | Although there are subpages for different meals and courses, there is no option to filter for certain ingredients or tools. This lowers the speed 
+at which users can search for a recipe of their liking and also decreases the interaction speed for an expert user. | Create a “filter by” option when searching.
 2 | There is no quick way to access the reviews and comments of the recipe other than scrolling to the bottom of the page (see Fig. 2.2). This decreases the interaction speed for all users. | Include a “Jump to Reviews” button at the top of the recipe page.
 
 ### 8. Aesthetic and Minimalist Design
