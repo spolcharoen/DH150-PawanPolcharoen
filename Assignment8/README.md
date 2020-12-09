@@ -22,7 +22,7 @@
 </style>
 
   <body>
-      <div class="jumbotron">
+      <div class="jumbotron" id="myHeader">
   <h1 class="display-4">The Cookbook Website</h1>
   <p class="lead">by Pawan (Sine) Polcharoen</p>
   <hr class="my-4">
