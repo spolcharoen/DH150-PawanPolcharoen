@@ -11,7 +11,7 @@
   </head>
 <style>
     #myHeader {
-        background-color: cornsilk;
+        background-color: #FFFEF1;
     }
 </style>
 
@@ -20,7 +20,7 @@
   <h1 class="display-4">The Cookbook Website</h1>
   <p class="lead">by Pawan (Sine) Polcharoen</p>
   <hr class="my-4">
-  <p>The Cookbook is a cooking website that allows users to find and save recipes that appeal to them and their various lifestyles. Through careful analysis, testing, and prototyping, The overarching goal of The Cookbook is to create a stress-free environment for busy middle aged women, so that they can explore the cooking skill while easily implementing the recipes into their lives. The user personas I created were busy middle aged women with real-life responsibilities and concerns. I want the website I create to be easily accessible for women of all technical and cooking levels. I also strive to create something that will cater to users' specific needs regarding time constraints and dietary needs. </p>
+  <p>The Cookbook is a cooking website that allows users to find and save recipes that appeal to them and their various lifestyles. Through careful analysis, testing, and prototyping, The overarching goal of The Cookbook is to create a stress-free environment for busy middle aged women, so that they can explore the cooking skill while easily implementing the recipes into their lives. The user personas I created were busy middle aged women with real-life responsibilities and concerns. I want the website I create to be easily accessible for women of all technical and cooking levels. I also strive to create something that will cater to users' specific needs regarding time constraints and dietary needs.</p>
 </div>
 
   </body>
