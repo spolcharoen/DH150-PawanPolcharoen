@@ -69,6 +69,7 @@ Black/Yellow test | Brown/Yellow test
 ![Color Check 1](../colortest1.png) | ![Color Check 2](../colortest2.png)
 
 ## Pitch Video
+The pitch video for The Cookbook can be found [here](https://drive.google.com/file/d/18FpgPsqQGupQgVOK-mZlJjdT2YQ582kG/view?usp=sharing).
 
 <iframe src="https://drive.google.com/file/d/18FpgPsqQGupQgVOK-mZlJjdT2YQ582kG/view?usp=sharing" width="440" height="280"></iframe>
 
